@@ -1,0 +1,767 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 7328.9,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 0,
+            "y": 0
+          },
+          "nodeIndex": "LinuxVM",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 432.7,
+            "y": 0
+          },
+          "nodeIndex": "Managed DISc",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1298.1,
+            "y": 0
+          },
+          "nodeIndex": "SQLVM",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 865.4,
+            "y": 286.1
+          },
+          "nodeIndex": "WindowsVM",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 1703.8,
+            "y": 0
+          },
+          "nodeIndex": "Query1",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 2569.2,
+            "y": 0
+          },
+          "nodeIndex": "Query3",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3001.9,
+            "y": 0
+          },
+          "nodeIndex": "SQL Core",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3434.6,
+            "y": 0
+          },
+          "nodeIndex": "Windows Core",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 3867.3,
+            "y": 0
+          },
+          "nodeIndex": "Slide 28 Window",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4300,
+            "y": 0
+          },
+          "nodeIndex": "Slide 28 SQL",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 4732.7,
+            "y": 0
+          },
+          "nodeIndex": "Tbl MI BC",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5165.4,
+            "y": 0
+          },
+          "nodeIndex": "tbl MI AC",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 5598.1,
+            "y": 0
+          },
+          "nodeIndex": "Slide 32 ISV Window",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6030.8,
+            "y": 0
+          },
+          "nodeIndex": "Slide 32 ISV SQL",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6896.2,
+            "y": 0
+          },
+          "nodeIndex": "Union AsIs",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 6463.5,
+            "y": 0
+          },
+          "nodeIndex": "Union  column",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7328.9,
+            "y": 0
+          },
+          "nodeIndex": "Cost &Saving",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 7761.6,
+            "y": 0
+          },
+          "nodeIndex": "Backup Compute",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8137,
+            "y": 0
+          },
+          "nodeIndex": "LandingZone Cost",
+          "size": {
+            "height": 152,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8569.7,
+            "y": 0
+          },
+          "nodeIndex": "Query2",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 8933.5,
+            "y": 0
+          },
+          "nodeIndex": "Query4",
+          "size": {
+            "height": 128,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9366.2,
+            "y": 0
+          },
+          "nodeIndex": "SqlAnalytics1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 9798.9,
+            "y": 0
+          },
+          "nodeIndex": "SqlAnalytics2",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10204.6,
+            "y": 0
+          },
+          "nodeIndex": "sustainability1",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 10610.3,
+            "y": 0
+          },
+          "nodeIndex": "sustainability2",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11016,
+            "y": 0
+          },
+          "nodeIndex": "sustainability3",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11430.7,
+            "y": 0
+          },
+          "nodeIndex": "sustainability4",
+          "size": {
+            "height": 248,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 11826.9,
+            "y": 0
+          },
+          "nodeIndex": "Database QuickWins",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12250.1,
+            "y": 0
+          },
+          "nodeIndex": "Database",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 12682.8,
+            "y": 0
+          },
+          "nodeIndex": "Database Cost",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13115.5,
+            "y": 0
+          },
+          "nodeIndex": "Database Pivot",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13548.2,
+            "y": 0
+          },
+          "nodeIndex": "ApplicationMorden22",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 13980.9,
+            "y": 0
+          },
+          "nodeIndex": "Application QUIckWins",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14413.6,
+            "y": 0
+          },
+          "nodeIndex": "ApplicationReadiness16",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 14846.3,
+            "y": 0
+          },
+          "nodeIndex": "Application Cost",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15242.5,
+            "y": 0
+          },
+          "nodeIndex": "Query5",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 15665.7,
+            "y": 0
+          },
+          "nodeIndex": "IssueMI",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16098.4,
+            "y": 0
+          },
+          "nodeIndex": "IssueVM",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16494.6,
+            "y": 0
+          },
+          "nodeIndex": "combined_MI",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 16917.8,
+            "y": 0
+          },
+          "nodeIndex": "Combined_VM",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 17350.5,
+            "y": 0
+          },
+          "nodeIndex": "SQL_Database_Detail",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 18052.5,
+            "y": 0
+          },
+          "nodeIndex": "Default DB",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 17701.5,
+            "y": 0
+          },
+          "nodeIndex": "ISV Connected",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 18485.2,
+            "y": 0
+          },
+          "nodeIndex": "Custom Connected",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 18917.9,
+            "y": 0
+          },
+          "nodeIndex": "TBLMI_BC1",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 19304.1,
+            "y": 0
+          },
+          "nodeIndex": "SQL Core 1",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 19700.3,
+            "y": 0
+          },
+          "nodeIndex": "Window Core 1",
+          "size": {
+            "height": 200,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 20106,
+            "y": 0
+          },
+          "nodeIndex": "ServerConnection_Window",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 20511.7,
+            "y": 0
+          },
+          "nodeIndex": "ServerConnection_SQL",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 20917.4,
+            "y": 0
+          },
+          "nodeIndex": "ServerConnection_Linux",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 21268.4,
+            "y": 0
+          },
+          "nodeIndex": "Query6",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 21701.1,
+            "y": 0
+          },
+          "nodeIndex": "Query7",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 22106.8,
+            "y": 0
+          },
+          "nodeIndex": "Query8",
+          "size": {
+            "height": 224,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 22539.5,
+            "y": 0
+          },
+          "nodeIndex": "Query9",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 22925.7,
+            "y": 0
+          },
+          "nodeIndex": "Query10",
+          "size": {
+            "height": 176,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 23358.4,
+            "y": 0
+          },
+          "nodeIndex": "Query11",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 23791.1,
+            "y": 0
+          },
+          "nodeIndex": "Query12",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 24214.3,
+            "y": 0
+          },
+          "nodeIndex": "Query13",
+          "size": {
+            "height": 272,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 25079.7,
+            "y": 0
+          },
+          "nodeIndex": "Window Optimization",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 25512.4,
+            "y": 0
+          },
+          "nodeIndex": "SQL OPTIMIZATION",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 25945.1,
+            "y": 0
+          },
+          "nodeIndex": "Query14",
+          "size": {
+            "height": 300,
+            "width": 234
+          },
+          "zIndex": 0
+        },
+        {
+          "location": {
+            "x": 26229.1,
+            "y": 0
+          },
+          "nodeIndex": "GCP_Menu_1",
+          "nodeLineageTag": "91fb8be4-2f7c-4093-9673-bbfcd2157741",
+          "size": {
+            "height": 104,
+            "width": 234
+          },
+          "zIndex": 0
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 100,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
